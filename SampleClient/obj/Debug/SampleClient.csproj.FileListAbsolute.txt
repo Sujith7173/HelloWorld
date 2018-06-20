@@ -1,0 +1,11 @@
+C:\Users\akari\source\repos\Sample\SampleClient\obj\Debug\SampleClient.csprojResolveAssemblyReference.cache
+C:\Users\akari\source\repos\Sample\SampleClient\obj\Debug\SampleClient.csproj.CoreCompileInputs.cache
+C:\Users\akari\source\repos\Sample\SampleClient\bin\Debug\SampleClient.exe.config
+C:\Users\akari\source\repos\Sample\SampleClient\bin\Debug\SampleClient.exe
+C:\Users\akari\source\repos\Sample\SampleClient\bin\Debug\SampleClient.pdb
+C:\Users\akari\source\repos\Sample\SampleClient\bin\Debug\BusinessObjects.dll
+C:\Users\akari\source\repos\Sample\SampleClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\akari\source\repos\Sample\SampleClient\bin\Debug\BusinessObjects.pdb
+C:\Users\akari\source\repos\Sample\SampleClient\obj\Debug\SampleClient.csproj.CopyComplete
+C:\Users\akari\source\repos\Sample\SampleClient\obj\Debug\SampleClient.exe
+C:\Users\akari\source\repos\Sample\SampleClient\obj\Debug\SampleClient.pdb

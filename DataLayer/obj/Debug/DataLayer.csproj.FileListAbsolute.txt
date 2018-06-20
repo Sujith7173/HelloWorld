@@ -1,0 +1,9 @@
+C:\Users\akari\source\repos\Sample\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\akari\source\repos\Sample\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\akari\source\repos\Sample\DataLayer\bin\Debug\BusinessObjects.dll
+C:\Users\akari\source\repos\Sample\DataLayer\bin\Debug\BusinessObjects.pdb
+C:\Users\akari\source\repos\Sample\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\akari\source\repos\Sample\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\akari\source\repos\Sample\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Users\akari\source\repos\Sample\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\akari\source\repos\Sample\DataLayer\obj\Debug\DataLayer.pdb
